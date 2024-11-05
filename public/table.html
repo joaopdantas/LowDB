@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Editable List</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <h2>Students</h2>
+
+  <table id="itemsTable">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nome/th>
+        <th>Numero</th>
+        <th>Curso</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Items will be inserted here -->
+    </tbody>
+  </table>
+
+  <div class="new-item-form">
+    <input type="text" id="newProp1" placeholder="Property 1" />
+    <input type="number" id="newProp2" placeholder="Property 2" />
+    <input type="text" id="newProp3" placeholder="Property 3" />
+    <button onclick="createNewItem()">Create</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

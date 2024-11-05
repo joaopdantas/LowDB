@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "marília",
+      "age": 30,
+      "study": "LEI"
+    },
+    {
+      "id": 2,
+      "name": "abelardo",
+      "age": 23,
+      "study": "Turismo"
+    },
+    {
+      "id": 3,
+      "name": "abelardo",
+      "age": 23,
+      "study": "Turismo"
+    },
+    {
+      "id": 4,
+      "name": "abelardo",
+      "age": 23,
+      "study": "Turismo"
+    },
+    {
+      "id": 5,
+      "name": "abelardo",
+      "age": 23,
+      "study": "Turismo"
+    },
+    {
+      "id": 8,
+      "name": "joaquim",
+      "age": "20",
+      "study": "ei"
+    },
+    {
+      "id": 9,
+      "name": "joaquim",
+      "age": "20",
+      "study": "ei"
+    }
+  ]
+}
